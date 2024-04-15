@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "3257",
+      "email": "asdkla@askdjak",
+      "name": "Nikita",
+      "password": "3452435435",
+      "confirmPassword": "3452435435"
+    },
+    {
+      "id": "d1c9",
+      "email": "asd",
+      "name": "12234",
+      "login": "asdasd",
+      "password": "235356456456",
+      "confirmPassword": "235356456456"
+    },
+    {
+      "id": "1dbf",
+      "email": "aweqwe@asd2easd",
+      "name": "asd",
+      "password": "4564566576",
+      "confirmPassword": "4564566576"
+    },
+    {
+      "id": "05ee",
+      "email": "213",
+      "name": "weqwe",
+      "password": "3534534534",
+      "confirmPassword": "3534534534"
+    },
+    {
+      "id": "e16e",
+      "email": "534645756",
+      "name": "343",
+      "password": "353456456",
+      "confirmPassword": "353456456"
+    },
+    {
+      "id": "8fa2",
+      "email": "asd@qwe",
+      "name": "asd",
+      "password": "qweqweqwe",
+      "confirmPassword": "qweqweqwe"
+    },
+    {
+      "id": "84ec",
+      "name": "321",
+      "email": "321",
+      "password": "123123123"
+    },
+    {
+      "id": "6147",
+      "name": "asdas",
+      "email": "asdas",
+      "password": "asdasdasdas"
+    },
+    {
+      "id": "237d",
+      "name": "asdasdasd",
+      "email": "2q234545",
+      "password": "asdasd32423"
+    },
+    {
+      "id": "d37b",
+      "name": "asdasd",
+      "email": "asdasasdas",
+      "password": "23123123123"
+    },
+    {
+      "id": "b732",
+      "name": "Ekaterina",
+      "email": "ekaterinaovsannikova62@mail.ru",
+      "password": "12345678"
+    }
+  ]
+}

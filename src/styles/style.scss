@@ -1,0 +1,40 @@
+// @import '@fontsource/roboto/300.css';
+// @import '@fontsource/roboto/400.css';
+// @import '@fontsource/roboto/500.css';
+// @import '@fontsource/roboto/700.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+    display: flex;
+    flex-direction: column;
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+    width: 100vw;
+    height: 100vh;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+@layer components {
+    .authInput {
+        background-color: grey;
+    }
+
+    .boxAuth {
+        border: 1px solid #000;
+        align-self: center;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 15px;
+        padding: 30px;
+        border-radius: 5px;
+    }
+}
